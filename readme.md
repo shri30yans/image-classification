@@ -1,11 +1,10 @@
-# Image Classification with PyTorch and scikit-learn
-
+# Image Classification with PyTorch
 ## Overview
-This project aims to classify images into different categories after learning from various types of images. It utilizes the PyTorch and scikit-learn libraries for machine learning tasks.
+This project aims to accurately classify images across various categories following learning from diverse datasets using the PyTorch and Torchvision
 
 ## Features
 - Train and test the model to classify images into distinct categories.
-- Leverages PyTorch and scikit-learn for efficient machine learning techniques.
+- Leverages PyTorch, TorchVision for efficient machine learning techniques.
 - Flexible model architecture and training parameters for experimentation.
 
 ## Usage
